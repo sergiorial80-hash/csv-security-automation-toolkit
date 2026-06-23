@@ -1,11 +1,10 @@
 
-## ⚠️ Data Notice
 
-All data used in this project is either synthetic or generalized.
+# DATA DISCLAIMER:
+# Any data processed by this script is expected to be synthetic or sanitized.
+# No real production or sensitive data should be used in this public version.
+# This version is intended for demonstration purposes only.
 
-No real production data, client information, or sensitive identifiers are included.
-
-Any datasets referenced are intended solely to demonstrate how the system processes and handles vulnerability data.
 
 
 # -*- coding: utf-8 -*-
