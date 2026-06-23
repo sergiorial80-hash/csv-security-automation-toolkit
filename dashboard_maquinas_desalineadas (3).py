@@ -1,3 +1,13 @@
+
+## ⚠️ Data Notice
+
+All data used in this project is either synthetic or generalized.
+
+No real production data, client information, or sensitive identifiers are included.
+
+Any datasets referenced are intended solely to demonstrate how the system processes and handles vulnerability data.
+
+
 # -*- coding: utf-8 -*-
 import os
 import re
